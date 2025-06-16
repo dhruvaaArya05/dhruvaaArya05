@@ -1,4 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhruva Arya</h1>
+<h3 align="center">Full-Stack Developer | AI/ML Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Coder%20%7C%20MERN%20Stack%20Dev%20%7C%20AI%20Explorer;Always%20Learning%20and%20Building..." />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 I`m currently pursuing my **Bachelor's in Computer Science Engineering**
+- 💡 Exploring Generative AI and building innovative full-stack projects  
+- 🧠 Always learning something new every day!
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,python,js,ts,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvaarya&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvaarya&theme=radical" alt="GitHub Streak" height="180px"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Social Media Project](https://github.com/dhruvaaArya05/Social-Media-Project) | A simple social media app where users can create and view posts in a home feed, built with React, Bootstrap. | React, Bootstrap |
+| [EcoNest](https://github.com/dhruvaarya/EcoShop) | Sustainable e-commerce platform promoting eco-friendly products | MERN, Tailwind |
+| [Myntra React Clone](https://github.com/dhruvaaArya05/Myntra-React-Clone) | A React-based Myntra Clone with cart, Wishlist & product browsing features. 🚀 | React |
+| [Todo App](https://github.com/dhruvaarya/todo-app) | Full-featured CRUD app with auth and session handling | MERN Stack |
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/dhruvaarya/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:dhruvaa866@email.com"><img src="https://img.shields.io/badge/Email-D00000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced DSA
+- AI Integration with Full Stack
+- System Design Basics
+- OpenAI & Gemini APIs
+
+---
+
+## 📌 Fun Fact
+
+> *“The best way to learn is to build. The best way to build is to stay curious.”* 💡
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhruvaarya/dhruvaarya/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 
 <!--
 **dhruvaaArya05/dhruvaaArya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
