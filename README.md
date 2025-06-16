@@ -66,8 +66,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dhruvaaArya05/dhruvaaArya05/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/dhruvaaArya05/dhruvaaArya05/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 
