@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,python,js,ts,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,python,js,git,github,vscode,figma" />
 </p>
 
 ---
@@ -25,8 +25,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvaarya&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvaarya&theme=radical" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvaaArya05&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvaaArya05&theme=radical" alt="GitHub Streak" height="180px"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhruvaarya/dhruvaarya/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/dhruvaaArya05/dhruvaaArya05/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 
