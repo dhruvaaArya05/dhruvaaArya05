@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ABC</h1>
+<h1 align="center">Hi 👋, I'm Dhruva Arya</h1>
 <h3 align="center">Full-Stack Developer · AI/ML Enthusiast · CSE Undergrad</h3>
 
 <p align="center">
